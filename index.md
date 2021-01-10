@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Github pages con github lab
 
-I'm glad you are here. I plan to talk about ...
+En esa parte vamos a estar realizando los cambios que nos pida el curso de github pages en github lab.
